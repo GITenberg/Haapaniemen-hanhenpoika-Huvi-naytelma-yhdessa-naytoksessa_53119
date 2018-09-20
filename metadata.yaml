@@ -1,0 +1,56 @@
+_repo: Haapaniemen-hanhenpoika-Huvi-naytelma-yhdessa-naytoksessa_53119
+_version: 0.0.1
+alternative_title: Gänschen von Buchenau. Finnish
+contributor:
+  translator:
+    agent_name: Törmänen, C. Edv.
+    aliases:
+    - Tormanen, C. Edv.
+    - Törmänen, Carl Edward
+    birthdate: 1855
+    deathdate: 1880
+    gutenberg_agent_id: '7521'
+    url: http://www.gutenberg.org/2009/agents/7521
+    wikipedia: https://fi.wikipedia.org/wiki/C._Edv._Törmänen
+creator:
+  authors:
+  - agent_name: Bayard, Jean-François-Alfred
+    aliases:
+    - Bayard, Jean-Francois-Alfred
+    - Bayard, F. (François)
+    - Bayard, Jean F. A.
+    - Bayard, J. F. (Jean-François)
+    birthdate: 1796
+    deathdate: 1853
+    gutenberg_agent_id: '48439'
+    url: http://www.gutenberg.org/2009/agents/48439
+  - agent_name: Friedrich, W.
+    aliases:
+    - Friedrich, Wilhelm
+    - Riese, Wilhelm Friedrich
+    - Riese, Friedrich Wilhelm
+    deathdate: 1879
+    gutenberg_agent_id: '25661'
+    url: http://www.gutenberg.org/2009/agents/25661
+  - agent_name: Lemoine, Gustave
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '47720'
+    url: http://www.gutenberg.org/2009/agents/47720
+description: '"Gänschen von Buchenau" was adapted from "La Niaise de Saint-Flour,"
+  by Bayard and Lemoine.'
+gutenberg_issued: '2016-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53119'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PT'
+- !lcsh 'German drama -- Translations into Finnish'
+- GITenberg
+title: 'Haapaniemen hanhenpoika: Huvi-näytelmä yhdessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/53119
