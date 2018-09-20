@@ -1,5 +1,5 @@
 _repo: Haapaniemen-hanhenpoika-Huvi-naytelma-yhdessa-naytoksessa_53119
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Gänschen von Buchenau. Finnish
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '7521'
     url: http://www.gutenberg.org/2009/agents/7521
     wikipedia: https://fi.wikipedia.org/wiki/C._Edv._Törmänen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Bayard, Jean-François-Alfred
@@ -39,6 +42,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47720
 description: '"Gänschen von Buchenau" was adapted from "La Niaise de Saint-Flour,"
   by Bayard and Lemoine.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53119#Haapaniemen-hanhenpoika-Huvi-naytelma-yhdessa-naytoksessa
 gutenberg_issued: '2016-09-22'
 gutenberg_type: Text
 identifiers:
